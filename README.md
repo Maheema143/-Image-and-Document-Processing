@@ -2,7 +2,7 @@
 
 This web application uses **Google's Gemini AI** to intelligently classify food-related complaints based on user input and context (e.g., Consumer, Retailer, or Supplier). The app returns key insights such as department, complaint category, priority, keywords, and emergency flags.
 
-![Demo](screenshots/task3.PNG)
+![Demo](task3.PNG)
 
 ---
 
